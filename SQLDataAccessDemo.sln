@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormUI", "FormUI\FormUI.csproj", "{D52BE365-B805-42E5-80C2-1595199ACBC2}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DemoData", "F:\Workspace C#\DemoData\DemoData.sqlproj", "{A9E5C298-1337-4849-AE3D-6000FF8909EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D52BE365-B805-42E5-80C2-1595199ACBC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52BE365-B805-42E5-80C2-1595199ACBC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52BE365-B805-42E5-80C2-1595199ACBC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52BE365-B805-42E5-80C2-1595199ACBC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E5C298-1337-4849-AE3D-6000FF8909EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E5C298-1337-4849-AE3D-6000FF8909EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E5C298-1337-4849-AE3D-6000FF8909EE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A9E5C298-1337-4849-AE3D-6000FF8909EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E5C298-1337-4849-AE3D-6000FF8909EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E5C298-1337-4849-AE3D-6000FF8909EE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD58022B-4B72-45AF-AC18-4483553BEA74}
+	EndGlobalSection
+EndGlobal
